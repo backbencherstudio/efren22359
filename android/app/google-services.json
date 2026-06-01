@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "589540968888",
+    "project_id": "choice-c90c5",
+    "storage_bucket": "choice-c90c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589540968888:android:88937b1272a702fa1d274d",
+        "android_client_info": {
+          "package_name": "com.efren.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589540968888-b94r6vq6eltj7a4ehr157tk5bvi9p6c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.efren.app",
+            "certificate_hash": "8f6ab3b120a3c7c7f5fc1751c2aede5f5ffca350"
+          }
+        },
+        {
+          "client_id": "589540968888-be3lbao5t8p4r4lckm994nbnpr6j3qk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEpvseaP9ewhS6Pwrtqq0nUgWwSaaSCrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589540968888-be3lbao5t8p4r4lckm994nbnpr6j3qk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589540968888-pqpiho69jljt0f3e5c21atvsd74sriue.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.choiceApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589540968888:android:963cd682ad86b8bb1d274d",
+        "android_client_info": {
+          "package_name": "com.example.finance_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589540968888-be3lbao5t8p4r4lckm994nbnpr6j3qk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEpvseaP9ewhS6Pwrtqq0nUgWwSaaSCrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589540968888-be3lbao5t8p4r4lckm994nbnpr6j3qk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589540968888-pqpiho69jljt0f3e5c21atvsd74sriue.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.choiceApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589540968888:android:52815adb5635f29a1d274d",
+        "android_client_info": {
+          "package_name": "com.efren.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589540968888-be3lbao5t8p4r4lckm994nbnpr6j3qk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEpvseaP9ewhS6Pwrtqq0nUgWwSaaSCrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589540968888-be3lbao5t8p4r4lckm994nbnpr6j3qk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589540968888-pqpiho69jljt0f3e5c21atvsd74sriue.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.choiceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
